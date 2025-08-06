@@ -1,19 +1,17 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+📈 Stock Prediction App (In Progress)
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+This is a work-in-progress stock prediction app that generates a detailed report based on the stock a user searches for. The app leverages both the OpenAI API and a stock market data API to provide insightful, AI-generated summaries and real-time stock information.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+This project is part of the Scrimba AI Engineering Path, and it’s helping me deepen my understanding of how REST APIs and AI models interact. It’s also improved my ability to structure user input, process API responses through OpenAI, and display useful data in a clean, responsive UI.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+⸻
 
-Happy Coding!
+🛠️ Technologies Used
+	•	HTML
+	•	CSS
+	•	JavaScript
+	•	Vite
+	•	React
+	•	OpenAI API
+	•	REST API
+	•	Netlify (for deployment)
